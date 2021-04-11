@@ -3,4 +3,4 @@ DIH image denoising using ELM and CNN and comparison with traditional denoising 
 
 Transfer Learning using ELM on cancer cells.
 
-Link to Paper- https://ieeexplore.ieee.org/abstract/document/9374319
+Link to published paper- https://ieeexplore.ieee.org/abstract/document/9374319
